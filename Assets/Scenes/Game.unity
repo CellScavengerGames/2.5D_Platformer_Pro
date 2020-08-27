@@ -821,7 +821,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _playerSpeed: 8
   _gravity: 1
-  _jumpHeight: 22
+  _jumpHeight: 21
 --- !u!23 &2130423025
 MeshRenderer:
   m_ObjectHideFlags: 0

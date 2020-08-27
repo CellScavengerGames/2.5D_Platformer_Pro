@@ -10,8 +10,7 @@ public class Player : MonoBehaviour
     private float _playerSpeed = 8.0f;
     [SerializeField]
     private float _gravity = 1.0f;
-    [SerializeField]
-    private float _jumpHeight = 23.0f;
+    private float _jumpHeight = 25.0f;
     private float _yVelocity;
 
     void Start()
